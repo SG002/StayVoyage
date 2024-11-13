@@ -1,5 +1,4 @@
 # StayVoyage
 
-Link to website: https://stayvoyage.onrender.com
+Link to website: https://stayvoyage.onrender.com/listings
 
-Click on Explore on top left after opoening the link :)
